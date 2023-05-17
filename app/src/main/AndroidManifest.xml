@@ -16,10 +16,10 @@
             android:name=".Bai2"
             android:exported="false" />
         <activity
-            android:name=".Bai3"
+            android:name=".Bai1"
             android:exported="false" />
         <activity
-            android:name=".Bai1"
+            android:name=".Bai3"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
